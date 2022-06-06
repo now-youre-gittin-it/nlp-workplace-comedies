@@ -3,6 +3,7 @@
 The work in this project was inspired by (and borrowed considerably from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
 ## What I did differently
 1. The original project dealt with scripts of stand up comedy monologues by multiple comedians. Whereas, I located and selected scripts for the major TV shows of the workplace comedy genre within the last two decades. Thus, the source data differs considerably from the that used in Alice Zhao's work:
+
 <br>
             (a) 1 person speaks in a stand-up monologue but multiple characters are involved in a TV show.<br>
             (b) Most comedians write independently, whereas a lot of elements (and teams) come together to write a TV show.<br>
