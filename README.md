@@ -8,4 +8,4 @@ The work in this project was inspired by (and borrowed considerably from) Alice 
   (b) Most comedians write independently, whereas a lot of elements (and teams) come together to write a TV show.<br>
   (c) Instead of one person who speaks with a consisent style, a workplace comedy involves multiple scenarios and a variety of characters.<br>
   (d) Comedy monologue duration: ~1 hour, whereas workplace comedy durations: ~30 minutes. (i.e., more content packed in a shorter interval).<br>
-  (e) Stand-up comedy is not universally enjoyed, but nearly everyone turns on the TV to watch a funny show involving their favourite characters :)<br>
+  (e) Stand-up comedy is not universally enjoyed, but nearly everyone turns on the TV to watch a funny show involving their favourite characters!<br>
