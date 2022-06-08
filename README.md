@@ -1,5 +1,7 @@
 # nlp-workplace-comedies
 
+<this read.me is still a work in progress!>
+
 The work in this project was inspired by (and borrowed considerably from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
 ## What I did differently
 1. The original project dealt with scripts of stand up comedy monologues by multiple comedians. Whereas, I used scripts of major US TV shows of the workplace comedy genre within the last two decades. Thus, the source data differs considerably from the that used in Alice Zhao's work:
