@@ -1,6 +1,7 @@
 # nlp-workplace-comedies
 
-<this read.me is still a work in progress!>
+<This read.me is still a work in progress.
+ In the meantime, please feel free to check out the individual notebooks; I've explained and analzed what I've done in those!>
 
 The work in this project was inspired by (and borrowed considerably from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
 ## What I did differently
