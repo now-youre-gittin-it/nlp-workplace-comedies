@@ -7,6 +7,7 @@ The work in this project was inspired by (and borrowed considerably from) Alice 
 ## What I did differently
 1. The original project dealt with scripts of stand up comedy monologues by multiple comedians. Whereas, I used scripts of major US TV shows of the workplace comedy genre within the last two decades. Thus, the source data differs considerably from the that used in Alice Zhao's work.
  The shows I selected were: 
+ <br>
  1. 30 Rock 
  2. Brooklyn Nine-Nine
  3. Its Always Sunny in Philadelphia
@@ -17,4 +18,5 @@ The work in this project was inspired by (and borrowed considerably from) Alice 
  8. Superstore
  9. The Office
  10. Veep.
+ <br>
 2. I coded new additional modules on named entity recognition and document similarity,  as well as modified the EDA to suit the base corpus of TV scripts.
