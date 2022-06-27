@@ -20,11 +20,13 @@
  -- Notebook on sentiment analysis
  
  ## Credit where credit is due
- The work in this project was inspired by (and incorported various elements from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
+ The work in this project was inspired by (and incorporated various elements from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
 ### What I did differently
 1. The original project dealt with scripts of stand up comedy monologues by multiple comedians. Whereas, I used scripts of major US TV shows of the workplace comedy genre within the last two decades. Thus, the source data differs considerably from the corpus involved in Alice Zhao's work.
  
-2. I coded new additional modules on named entity recognition and document similarity,  as well as modified the initial EDA to suit the base corpus of TV scripts.
+2. I coded new additional modules on named entity recognition and document similarity, as well as modified the initial EDA to suit the base corpus of TV scripts.
+ 
+3. I also compared a new script against the original items to analyze this script in terms of the metrics used/insights gained previously.
  <br>
  Note: The scripts analyzed in this project are solely the properties of their respective owners; this is a learning exercise.
  
