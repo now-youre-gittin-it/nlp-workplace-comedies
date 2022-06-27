@@ -9,7 +9,7 @@
  The shows I selected were: 30 Rock, Brooklyn Nine-Nine, Its Always Sunny in Philadelphia, The Mindy Project, Parks and Recreation, Scrubs, Silicon Valley, Superstore, The Office, and Veep.
  
  ## Questions answered through the work in this project:
- -- Notebook 1
+ -- Notebook on EDA
  1. How can automate the extraction of data (i.e., show transcripts) from text files to explore and analyze the text?
  Ans. By opening each text file using the read() function and storing the transcript for each show in a dictionary for subsequent analysis.
  2. What kind of basic patterns/elements are common across scripts?
@@ -17,7 +17,7 @@
  3. What are the unique concepts involved in each script?
  Ans. Generating a word cloud gives an introduction to the unique topics discussed in each script.
  
- -- Notebook 2
+ -- Notebook on sentiment analysis
  
  ## Credit where credit is due
  The work in this project was inspired by (and incorported various elements from) Alice Zhao's session at the PyOhio Conference in 2018. The code for the project she explains in detail is available at https://github.com/adashofdata/nlp-in-python-tutorial, and the recording of her session is available at https://www.youtube.com/watch?v=xvqsFTUsOmc.
