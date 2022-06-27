@@ -1,0 +1,1121 @@
+BIG HEAD
+Hey, man, some guys from Zynga are 
+throwing an all-night Perplexus
+tourney.  Maybe we can find some 
+Stanford kids to hustle.
+THOMAS
+Can’t.
+BIG HEAD
+Goddamn, Thomas, that’s a buttload
+of code.  
+JIAN YANG
+Sheee-it, mother fucker you can 
+like buy compression software.  You 
+don’t have to fucking write that 
+shit.  You can buy that shit!
+BIG HEAD
+Or download a bootleg.
+THOMAS
+None of that CodeAcademy crap for 
+my web site.   The whole idea of 
+Pied Piper is based on melody 
+recognition.  If it doesn’t work 
+perfectly, no one will want in. So, 
+I am making it perfect.  
+Hey, Dinesh, can you test this 
+module for me?
+DINESH
+Can I eat your salmon?
+THOMAS
+
+OK.
+BIG HEAD
+You’re letting him test your 
+module?
+THOMAS
+You’ve got the Perplexus tourney.  
+I want you to fuck those guys up.
+ERLICH
+And you wonder why there are never 
+any girls around here. 
+Hey Thomas, can we talk for a 
+second?
+THOMAS
+OK.
+ERLICH
+Thomas, I’m gonna have to ask you 
+to vacate.
+THOMAS
+What?  Why?
+ERLICH
+You’ve been here six months.  I 
+gave you place a to live and plug 
+in.  You’ve given me nothing. 
+THOMAS
+Look, Pied Piper is going to take 
+off. The website is up and running, 
+it works great, it just needs--
+ERLICH
+Pied Piper is crap.  When you 
+pitched it you said, “The Google of 
+Music.” I thought it had 
+“Applications”.
+THOMAS
+It does! Have you been on it since 
+I revamped it?  
+Once it takes off Pied Piper will 
+be able to search the whole world 
+of recorded music to see if there 
+is a match.  If you’re a song 
+writer... or a band... or anything, 
+and you wanted to make sure you 
+weren’t infringing on copy righted 
+material, you could find out in no 
+time.  
+
+ERLICH
+First of all, nobody cares about 
+stealing other people’s music.  
+Jesus, they do it on purpose!  Jay-
+Z and Puffy made whole careers on 
+it.
+THOMAS
+They didn’t steal it, they had to 
+get permission from the copyright 
+owners...
+ERLICH
+They don’t own dick.  There’s no 
+money in music anymore.  Everyone 
+involved in music is either 
+stealing it or sharing it.  They’re 
+all assholes. And they’re all suing 
+each other. To stay here, you have 
+to deliver.  Or at least show some 
+promise for fuck’s sake.
+
+ERLICH (CONT’D)
+Like NipAlert.  Big Head’s app.   
+It gives you the location of a 
+woman with erect nipples. That’s 
+something people want. How’s that 
+coming along?
+
+BIG HEAD
+Almost ready to enter Beta Phase.
+
+THOMAS
+Look, I want to change the world.  
+Make it a better place...
+
+
+ERLICH
+We all want to change the world and 
+make it better.  Like I did when I 
+developed Accutran.  A lot of 
+companies use a lot of different 
+software to aggregate social media 
+feedback -- Frontier Airlines just 
+happened to like mine. 
+
+THOMAS
+You can’t just kick me out.  When I 
+signed up I was promised a month’s 
+notice if I had to leave.  It’s in 
+writing.
+
+ERLICH
+Then I am giving you notice.  I 
+hope you’re happy.  You know, when 
+I sold Accutran there were a lot of 
+things I could do with my money.  
+But I wanted to give back.  I 
+started this place to do something 
+big.  Really make a difference.  
+Like Steve.  
+THOMAS
+Jobs or Wozniak?
+ERLICH
+Jobs.  Now, suppose Steve came back 
+to us all reincarnated, because he 
+was a Buddhist you know, and he 
+showed up here at The Hacker Hostel 
+looking for a place to help him get 
+on his feet so he could launch the 
+next big tech revolution.  What 
+could I do? There’s no room for 
+STEVE. Can you believe this?  I 
+have to tell Steve to fuck off 
+because there would be no room at 
+the Inn because you and Pied Piper 
+are here gumming up the works.  See 
+what I’m saying Thomas?
+THOMAS
+That Steve Jobs is Jesus?
+ERLICH
+He was Buddist!
+THOMAS
+He was a poser!  He didn’t even 
+write code.
+
+GAVIN BELSON (V.O.)
+Boodle brings the world to 
+everyone.  Boodle is everything.  
+And that’s what allows Boodle to 
+“make happy.”
+THOMAS
+These rents are insane.  $2800 a 
+month, $4500 a month -- with five 
+people!  
+BIG HEAD
+You forget how goddamn expensive it 
+is here.  
+
+THOMAS
+I don’t want to have to go back to 
+St. Louis.  I can barely talk to 
+people in St. Louis.  My parents 
+still live in St. Louis! 
+BIG HEAD
+You think Oklahoma City’s any 
+better?  
+
+And I’m going to be the next one 
+booted.  Ever since GoolyBib landed 
+two million in seed money Erlich’s 
+been on the warpath about 
+monetizing.
+THOMAS
+GoolyBib?  That Indian guy from 
+Dropbox you were hanging out with?
+BIG HEAD
+No, it’s a startup -- GoolyBib.  I 
+think it’s a real estate app... or
+maybe it’s that traffic one.
+THOMAS
+Fuck.  Every day somebody in the 
+valley is hitting it big. But not 
+me. If I can’t pull it off now, 
+when there are billions of dollars 
+just LOOKING FOR A START UP, it 
+might not ever happen.
+BIG HEAD
+Yeah, no kidding.
+THOMAS
+What are you worried about?  Erlich 
+loves Nip Alert.
+BIG HEAD
+He’s just blinded by boobs.  Once 
+he scratches the surface he’s going 
+to see there’s giant holes in this 
+thing.  It’s based on self 
+reporting. I can’t put sensors on 
+women to report when their nipples 
+are erect.  I get one clown to send 
+out fake reports and the whole 
+thing collapses.  I need something 
+to make it objective.
+
+THOMAS
+Maybe I could develop an image 
+recognition program, kind of like 
+the melody recognition in Pied 
+Piper.  
+Big Head is coming around.
+BIG HEAD
+Or infra red cameras that detect  
+changes in body heat.
+
+THOMAS
+Fuck, I’m going to have to go to 
+graduate school.  I can’t afford to  
+stay here even if I’m working full 
+time at Boodle.  
+GAVIN BELSON (V.O.)
+That is how Boodle can change the 
+world.
+THOMAS
+Changing the world, one crappy app
+at a time.
+
+BIG HEAD
+Hey, did you hear what Peter 
+Gregory is doing?
+THOMAS
+You mean buying that island in the 
+Pacific?
+BIG HEAD
+He’s building one actually. It’s 
+gonna be this giant platform in the 
+middle of the ocean. And I think 
+he’s designing a new monetary 
+system for it.  But anyway, he’s 
+also offering a hundred K to people 
+willing to skip or drop of college 
+to pursue any idea they have.  I 
+mean, it has to be really kick ass.
+
+THOMAS
+Pied Piper kicks ass.  
+BIG HEAD
+He’s speaking in Palo Alto tonight.  
+We should go. See if they’ll let us 
+talk to him.
+
+I don’t know what happened to that 
+guy, but he really hates college.
+Thomas considers this idea.  Big Head eats another energy 
+bar.  He’s wired, tapping his hands, moving his legs.
+BIG HEAD (CONT’D)
+Fuck, I don’t know if it’s the 
+energy bar or drink or gum but I 
+can’t wait for tonight.  And I 
+can’t sit still.
+
+THOMAS
+Brogrammers.
+BROGRAMMER #1
+A double machiatto for me.
+
+BROGRAMMER #2
+Make mine a double double.
+BROGRAMMER #1
+Yeah!
+
+
+BROGRAMMER #2
+Hey, To-mas -- you been working 
+out?
+
+BROGRAMMER #1
+So how is every little thing?
+THOMAS
+Eh... not so good.  Gotta find a 
+place to live, so if you guys know 
+of anything...
+BROGRAMMER #2
+You’re leaving the Hacker Hostel?
+THOMAS
+Getting kicked out. I’ve got a 
+website that I think could be huge, 
+but nobody gets it.  
+
+BROGRAMMER #1
+We might get it.  We’d love to take 
+a look.  What’s it called?
+THOMAS
+Pied Piper.
+
+BROGRAMMER #1
+Sounds amazing.  Why don’t you 
+shoot it over to me and we’ll give 
+it a look.  Maybe we can help.
+
+PETER GREGORY
+Gates, Ellison, Jobs, Dell. All 
+dropped out of college.  Silicon 
+Valley is the cradle of innovation 
+because of DROP OUTS. We need 
+innovation and we need innovators!  
+Colleges are choking and strangling 
+with conformity what the drop outs 
+created through inspiration! 
+
+PETER GREGORY (CONT’D)
+College has become a cruel, 
+expensive joke on the poor and the 
+middle class that only benefits the 
+perpetrators of it -- the bloated 
+administrations and the myopic 
+teaching staffs.  Wages for 
+graduates are going down. 
+Employment opportunities for 
+graduates are shrinking, but the 
+cost of a “higher education” just 
+keeps going up and up and up.   
+
+BEARDED ACADEMIC
+You are a dangerous man, spewing 
+ignorance!  
+PETER GREGORY
+I don’t think so. I’m just saying 
+that people should trust themselves 
+more than a system that happily 
+churns out unemployed debtors and 
+provides dubious value.
+BEARDED ACADEMIC
+The true value of a college 
+education is intangible.
+PETER GREGORY
+The true value of snake-oil is 
+intangible as well.
+
+PETER GREGORY (CONT’D)
+If you have a truly unique and 
+brilliant idea I can promise you 
+that any university worth its 
+weight will crush it with their 
+lack of creative thought and your 
+now monumental pile of debt.
+
+BEARDED ACADEMIC
+Fascist.
+.
+THOMAS
+Hi, excuse me, Mr. Gregory?  I have 
+an idea I’d love to pitch--
+Monica cuts him off.
+MONICA
+There were sign up sheets to have a 
+personal consultation with Mr. 
+Gregory.
+THOMAS
+There weren’t any slots left.
+MONICA
+I’m sorry.
+
+THOMAS
+I just thought I should talk to him 
+before I give up and... go back to 
+college.
+PETER GREGORY
+Don’t!  Wait, where?
+THOMAS
+I don’t know, probably Boston 
+University.
+
+
+
+PETER GREGORY
+That’s over fifty thousand a year.  
+Do not do that.  Go work at Burger 
+King.  Go into the woods and forage 
+for nuts and berries.  But do not 
+go back to college!
+
+I think I have been played.  Fine.  
+Go ahead and pitch. You have until 
+I fasten the seatbelt in my car.
+
+THOMAS
+Pied Piper is a proprietary site 
+that allows you to find if your 
+music is infringing on existing 
+copyrights.  Imagine if you were a 
+song writer.... 
+
+PETER GREGORY
+I don’t think I could write a song.
+THOMAS
+But if you did...
+PETER GREGORY
+I don’t even know if I can say 
+“Pied Piper is a proprietary site.”  
+Well I guess I just did but it 
+wasn’t easy.
+
+MONICA
+Crunching all those songs to find 
+matches sounds like a lot of data 
+flow.
+
+PETER GREGORY
+Yes.  Yes it does.
+
+MONICA
+Look, why don’t you send me the 
+link for your project and we’ll 
+take a look.
+THOMAS
+Great, if you give me your email
+address I’ll send you the link.
+MONICA
+Why don’t you just write it down 
+for me.
+
+BIG HEAD
+Sorry.. I’m just thinking about... 
+image recognition.
+
+ERLICH
+...the airlines had a problem, and 
+I had Accutran.  So... wow me.  
+
+PITCHER
+Ok, here it is:  Bit Soup.  It’s 
+like alphaBET soup but it’s all 
+ones and zeroes. 
+See it’s binary.  Because binary is 
+just ones and zeroes
+
+ERLICH
+I KNOW WHAT BINARY IS!!! Jesus!  
+I’ve memorized the hexadecimal 
+times tables! Ask me what 9 times F 
+is!! I don’t need you to tell me 
+what’s binary and I don’t NEED you 
+thinking about soup.  I NEED you 
+thinking about code.  This is 
+Silicon Valley, not...
+...Paris, Texas.
+
+That’s where Campbell’s Soup is.
+
+ERLICH (CONT’D)
+Look, I got one slot opening up 
+very soon, who’s gonna get it?
+ROLAND
+So that thing is from the 1400s?
+BIG HEAD
+Not this one literally, but the 
+sacbut is the least evolutionized
+of all brass instruments, so it 
+would be the same as one from the 
+14th century.
+DINESH
+So do you guys play anywhere?  Like 
+clubs or anything?
+
+BIG HEAD
+Not yet.  We’re trying to play 
+Street Fair this year.  
+Problem is, they’re more into 
+traditional Sacbut, which we can 
+do, but it seems like it would be 
+selling out or something -- just 
+doing what people expect.
+ROLAND
+I don’t think anyone ever expects a 
+sacbut ensemble anywhere...
+THOMAS
+Everyone likes music.  I can’t 
+figure out what it is about Pied 
+Piper that people don’t get?
+DINESH
+Applicability?
+THOMAS
+I don’t know... Peter Gregory’s 
+head of operations said to send her 
+the link but she was probably just 
+shining me on.
+DINESH/ROLAND
+She?
+BIG HEAD
+Man, she was hot.
+ROLAND
+Why didn’t I see her on nip alert?
+BIG HEAD
+Because I was too distracted.  See, 
+that’s another bug I have to work 
+out.
+LANGDON
+This is probably the worst time 
+ever to be a laid-off publicist. 
+TANDY
+Yep.  Social media.
+LANGDON
+I know!  There are no cool jobs 
+anymore because everyone is out 
+there blogging and doing it for 
+free!  At least you’re working non-
+profit.
+TANDY
+I’m working the phones for 
+mesothelioma for ten bones an hour 
+and there are no parties.  No 
+galas. No deep pockets. No 
+connections. 
+
+LANGDON
+Remember those Pediatric AIDS fund-
+raisers?  Those were huge.
+TANDY
+Yeah, that’s how I met Jerry 
+Weintraub.  He took me to Cannes.  
+God, I miss the Hotel Du Cap.
+
+LANGDON
+There’s just no money in non-
+profits anymore.  Then I guess 
+there’s no money anywhere anymore.  
+And I need a job.
+
+I’m in way default on my student 
+loans.  Why the hell did they lend 
+me money to major in Art History. 
+Assholes!!
+
+TANDY
+It’s fucked up.  Wanna go to Vespio
+tonight?
+LANGDON
+I don’t know, we keep running into 
+the same guys.  All the guys with 
+money in LA seem to be old and fat.
+TANDY
+Except for the professional 
+athletes.
+LANGDON
+Yeah, they’re hot but they’re all 
+rapists.
+TANDY
+Yeah, or Christians.
+LANGDON
+I would even settle for a guy who 
+wasn’t rich as long as he wasn’t a 
+douche.
+TANDY
+Keep telling yourself that.  I 
+think you would be bored to death. 
+My mom always says it’s just as 
+easy to fall in love with a rich 
+guy as a poor guy.  
+LANGDON
+Not around here...
+TANDY
+I really should have married Tom 
+when I had the chance.  I’d be 
+living in a house in Malibu.  I 
+wouldn’t be worried about getting 
+older.  I’ve seen lines on my face. 
+Well, just around the eyes, but 
+they are there. 
+
+LANGDON
+Eyes aren’t as hard to fix as necks 
+and hands but... Yeah, I’m not even 
+getting carded anymore.  
+LANGDON (CONT’D)
+Why can’t we meet guys like that?
+TANDY
+Geeks?
+LANGDON
+Yeah.  They’re rich and smart and 
+they’re our age.
+TANDY
+
+Yeah, and they don’t look rapey. 
+But they’re all up North.  
+
+LANGDON
+So a half hour plane ride away 
+there’s all these gazillionaires?  
+What the hell are we doing here?
+TANDY
+Getting older.  And poorer.  
+
+BROGRAMMER #1
+Let’s look at this stupid thing.
+BROGRAMMER #2
+
+You have to download your own 
+player?  Hey look at me, I traveled 
+back to 2009!
+BROGRAMMER #1
+Wait a second.  Look at this file 
+size.  1.2 Megabytes?  No way!  I 
+know that song.  That’s at least 3 
+on itunes...
+
+BROGRAMMER #2
+Wow, that doesn’t sound at all 
+downgraded.
+
+BROGRAMMER #1
+I really can’t hear the difference.    
+BROGRAMMER #2
+And the file size is like, half.  
+How the hell did he do that?
+BROGRAMMER #1
+I have no idea.  Some kind of new 
+lossy compression I guess. 
+JARED
+What are you guys listening to?
+BROGRAMMER #1
+We’re listening to 1.5 gigabytes of 
+sound that should take up 4.5 
+gigabytes.
+
+JARED
+Do you realize how huge this could 
+be?  With all the data storage and 
+data flow problems.  The 
+applications could be endless.
+
+GAVIN BELSON
+I want it.
+ERLICH
+Hey, I’m being a good guy here.  
+You can either get me a zip drive 
+with any and all code you worked on 
+or thought of working on while you 
+lived here, or you can just clean 
+the bathroom.  Up to you.
+
+THOMAS
+A Boodle number again.  It’s 
+probably those fucking brogrammers.
+They keep calling to tell me how 
+bad my website is.  I really don’t 
+want to answer just to hear about 
+what an asshole I am.
+ERLICH
+You’re on.
+EAGER GUY
+My site is called Mashville.
+ANGLE ON THOMAS
+
+THOMAS
+
+I just want to put an end to this.
+
+Hi, Thomas Peckering, I’m an 
+asshole, tell me how much you hate 
+Pied Piper.
+
+THOMAS (CONT’D)
+What?  Really?  Wait, is this a 
+prank?  Can you prove it’s real?  
+OK, I’ll call right back.
+
+THOMAS (CONT’D)
+Holy shit.  OK... I’ll be there.
+
+THOMAS (CONT’D)
+I have a meeting with Gavin 
+Belson... he likes Pied Piper.
+ERLICH
+I own ten percent of Pied Piper.
+THOMAS
+You said it was a shitty idea.
+ERLICH
+It was a shitty idea.  I’m not sure 
+what it is now.  When’s your 
+meeting?
+THOMAS
+Right now.
+ERLICH
+I’ll go change.
+
+
+THOMAS
+What the fuck am I waiting for?
+
+JARED
+Good to see you, Thomas.  Now Gavin 
+is running about thirty minutes 
+late.
+THOMAS
+Well, it’s been forty minutes 
+already so does that mean another 
+30 minutes from now then...?
+
+OTHER EXECUTIVE
+You should know Gavin is very 
+excited about your site.  Have you 
+met Gavin?
+THOMAS
+I’ve never even seen him in person.
+
+OTHER EXECUTIVE
+It’s amazing.  You’ll just feel so 
+energized after you meet him.  I’m 
+a VP here and I only see Gavin 
+about ten minutes a month. 
+ANOTHER EXECUTIVE
+But that ten minutes is just 
+incredible.  Indescribable.  
+Prepare to have your life changed.
+
+SENIOR VP
+I heard Thomas Peckering was here.  
+Has he ever met Gavin?  No?  
+OTHER EXECUTIVE
+I told him it’s amazing.
+SENIOR VP
+That hardly begins to describe it.
+DESIGNER
+We really need to do something to 
+fill that huge space up there.  Now 
+I know you won’t like this idea, 
+Gavin, but how about a nice, bold 
+picture of you to fill it?
+
+GAVIN BELSON
+OK.  But I don’t want to just pose 
+this time.  Maybe we can get a shot 
+of me... innovating.
+DESIGNER
+Perfect.
+SENIOR VP
+
+Ah, Gavin...
+
+THOMAS
+Hello?
+
+THOMAS (CONT’D)
+It’s Peter Gregory.
+GAVIN BELSON
+It’s weird.  They always travel in 
+groups of five.  Tall skinny white 
+guy, short skinny Asian guy, fat 
+guy with a ponytail, some guy with 
+crazy facial hair and then an east 
+Indian guy.  Do they trade guys 
+till they all have the right group?
+POWERADE REP
+Ummm... I’m not sure, but we are 
+very excited about becoming the 
+official energy product of Boodle 
+Corporation.  You know our products 
+are not just junk loaded with sugar 
+and caffeine.  I mean of course 
+they have those but they really are 
+an excellent nutritional product.
+GAVIN BELSON
+When I first started Boodle I 
+worked those guys 24/7.  It’s 
+amazing what you can get human 
+beings to do for $45 worth of ice 
+cream.  But the thing is, now 
+everyone wants to be healthy...
+Get the fuck out.
+THOMAS
+I’m actually outside Gavin Belson’s 
+office right now, Mr. Gregory.  
+Here he is!  Can you hold on a 
+second?
+
+GAVIN BELSON
+So, Thomas Peckering is here!  
+Gavin is looking at an overweight guy with a pony tail until 
+Jared guides him over to Thomas.  Gavin acts like he has just 
+found a long lost friend.  
+There you are, Tom!! I’m sorry 
+these gentlemen kept you waiting.
+He gives Jared and the other executives dirty looks.  They do 
+their best to look apologetic.  
+Here’s the thing -- I love what you 
+did.
+
+THOMAS
+You REALLY like Pied Piper?
+GAVIN BELSON
+LOVE IT!  Fill him in Jared!
+
+JARED
+Now, Thomas, of course since you 
+developed this fantastic project on 
+the Boodle campus while employed by 
+Boodle, technically it is the 
+property of Boodle, but Gavin is 
+prepared to give you quite a nice 
+raise - and a promotion of course.
+THOMAS
+Oh, well actually I’ve only worked 
+here at Boodle a few weeks.  I 
+needed a job because things weren’t 
+panning out and... well I created 
+this site months before I got here.
+ERLICH (O.S.)
+That’s right!  He created it while 
+living AT MY INCUBATOR.
+
+BIG HEAD
+Sorry, he threatened to kick me out 
+of the house if I didn’t get him 
+in.
+ERLICH
+Scott Erlich.
+
+GAVIN BELSON
+I’ll give you $600,000 for it. 
+
+
+GAVIN BELSON (CONT’D)
+But I am not just giving you 
+$600,000, I am giving you the full 
+weight of Boodle.  We have the 
+reach and the muscle and the 
+resources to take what you have 
+done and push it to the global 
+level. At Boodle we don’t ask 
+people what they want.  We tell 
+them what they want. And they thank 
+us for doing it. Boodle can bring 
+you the world.
+
+BIG HEAD
+Hello?  Really?  Wow.  Sure.
+He hands his phone to Thomas.
+BIG HEAD (CONT’D)
+It’s Peter Gregory.  I don’t know 
+how he got my number.
+
+THOMAS
+Hello, Mr. Gregory, I’m so sorry.  
+Oh, you heard that? 
+
+Uh huh... Uh huh...
+GAVIN BELSON
+
+I’ll give you ten million dollars 
+for it!
+
+THOMAS
+Gavin Belson just offered me 10 
+million dollars for Pied Piper.
+
+PETER GREGORY
+Ten million?  I’m prepared to give 
+you one hundred thousand dollars.
+
+
+THOMAS
+Peter Gregory offered me one 
+hundred...
+...thousand?
+
+PETER GREGORY
+File size is a problem that is 
+never going away.  That makes your  
+compression code very valuable.  
+Ask yourself this, Thomas:  Did you 
+come out to Silicon Valley to make 
+ten million dollars and disappear?  
+Or did you come to make billions 
+and leave your mark? You could be 
+up there with the greats. 
+THOMAS
+Mr. Belson, I have a great idea!  
+Peter Gregory is only interested in 
+the compression algorithm I 
+created, so I could do Pied Piper 
+with you and develop the 
+compression technology with him.
+GAVIN BELSON
+The compression is the only thing 
+about the fucking stupid site I DO 
+WANT!!
+GAVIN BELSON (CONT’D)
+Don’t be an idiot.  I’m offering 
+you real money.  Ten million, right 
+now.  
+THOMAS
+Excuse me... I...I need to use the 
+bathroom... 
+THOMAS
+So what would my position with the 
+company be?
+JARED
+Your position?
+THOMAS
+What would I be doing?
+SENIOR VP
+You could just think of something 
+else genius.
+THOMAS
+And you guys would own it?
+SENIOR VP
+Well, yes, as per the terms of the 
+contract. But--
+THOMAS
+Yeah, I meant to ask you about 
+that, this contract is for thirty 
+years.
+SENIOR VP
+Yes, the ten million is paid over 
+thirty years.
+THOMAS
+This looks like a restraining 
+order.
+JARED
+Yes, well, Gavin is a very busy 
+man... and he doesn’t want to get 
+in your way... or you in his.
+
+It's not necessarily a bad thing.
+MONICA
+Whoa, someone’s on edge.
+
+THOMAS
+Yeah, maybe.  Wonder why.
+MONICA
+Well, I came by to let you know 
+that whoever you go with, 
+everything will be just fine. 
+Boodle is creepy and Peter is... 
+well nuts, but you have two of the 
+biggest players in Silicon Valley 
+fighting over you.  Enjoy it.
+THOMAS
+Yeah, I don’t see that happening. I 
+have to make the most important 
+decision of my life! And I’m not 
+good at making those kinds of 
+decisions.
+MONICA
+So, what kind of decisions are you 
+good at making?
+
+THOMAS
+Technical ones.  Fixes.  Cracking 
+code and making it work.  And then 
+making it work better.  I like 
+having discreet reducible problems 
+and solving them.  I’m not much of 
+a “big picture guy”.
+MONICA
+Maybe you are and maybe you aren’t.  
+Maybe you just need bigger problems 
+to solve.
+
+THOMAS
+So, Peter Gregory sent you here to 
+offer me bigger problems?
+MONICA
+Nobody sent me over here.
+
+MONICA (CONT’D)
+When you don’t try to see the “big 
+picture” you miss a lot.  Even 
+things that are right in front of 
+you.
+
+THOMAS (V.O.)
+I’ve been thinking about this a 
+lot, and I think Boodle is a great 
+opportunity, but I’m a little fuzzy 
+about just what exactly I would do.
+
+GAVIN BELSON
+You can do anything, learn to play 
+zithers, play D&D all day long.  
+Hell, grow a pony tail, grow 
+pigtails, I don’t care.
+
+JARED
+What Gavin is saying is that you’ll 
+have complete freedom.
+
+THOMAS
+Well, it’s just that I kind of want 
+to be a part of something.  I want 
+to help take this to the next 
+level.  So I was thinking maybe if 
+we became partners...
+
+GAVIN BELSON
+I'm willing to give this dickhead
+thirty million dollars if I never 
+have to talk to him again!
+JARED
+Gavin, we’re still on speakerphone.
+
+GAVIN BELSON
+I know!
+
+LANGDON
+It looks like a Four Seasons but 
+sure as hell doesn’t feel like one.
+TANDY
+OK, I have never felt less sexual 
+energy in my life.
+GUY
+Hey girls.  My name’s James.
+(hands them his card)
+I started Zcranium.com. We just got 
+two million in start up money.
+TANDY
+Oh really?  So you’re like, a 
+programmer or...?
+GUY
+Fuck yeah!  
+I was writing code when I was 8. I 
+was a math wizz Sergie Brin?!  
+Larry PAGE?!! Fucking Larry 
+Elllison??!!! They’re NOTHING!
+I’m a tenth level magic user!!!
+TANDY
+This is it?  This is where all the 
+tech billionaires decided to live?
+LANGDON
+It can’t be.
+Excuse me, is this Palo Alto?
+LANGDON
+It looks like it’s all guys.  
+That’s gotta be good, right?
+JIN YIANG
+This bullshit.  Why I gotta buy 
+beers?  That motherfucker just get 
+30 million dollars from Boodle.
+ROLAND
+Cause you never pay for shit, Jin
+Yiang.  And this is a big night for 
+Thomas.
+JIAN YANG
+Why you talk fucked up like that? 
+ROLAND
+
+Just c’mon.
+LANGDON
+
+Thomas.
+
+TANDY
+We can still catch the late flight 
+back to LA.
+
+LANGDON
+We’re not going anywhere.
+ERLICH
+You don't want to work for assholes
+and now you don't have to.   You're 
+like me - you want to build 
+something.
+
+JARED
+He turned down 30 million dollars?
+
+GAVIN BELSON
+Well, look at it this way -- I have 
+30 million dollars that I’m going 
+to use to destroy that sad, 
+pathetic, stupid prick.
+THOMAS
+With this new company we’re really 
+going to try and do things right.  
+First order of business -- changing 
+the name.  
+
+Yes, I know “Pied Piper” sucks.
+THOMAS (CONT’D)
+Oh... Hey.  I turned down you guys.  
+And my decision is final.
+JARED
+I know.  And I respect that.  As a 
+matter of fact, that’s all I can 
+think about... that you turned down 
+30 million dollars because you 
+cared about something.  You were 
+passionate about something.  I want 
+to feel that way.  I want to work 
+for you.  I don’t know if Gavin 
+will give me a good recommendation 
+but I’m really fucking good at 
+business development.
+THOMAS
+It always sounded like bullshit
+when every guy with a start up said 
+that they wanted “to change the 
+world”  Okay, it still sounds like 
+bullshit... but maybe we can make 
+our mark. 
+ERLICH
+AND MAKE SOME MONEY!!!
+THOMAS
+We’re going to need some energy 
+drinks.
+BIG HEAD
+Big ones.
+
